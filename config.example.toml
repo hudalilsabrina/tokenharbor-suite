@@ -1,0 +1,11 @@
+# TokenHarbor Suite - Example Configuration
+[api]
+tempmail_base = "http://localhost:8080/api"
+
+[router]
+url = "http://127.0.0.1:20127"
+password = "your-9router-password"
+
+[general]
+headless = true
+timeout = 30

@@ -1,0 +1,4 @@
+patchright>=1.63.0
+requests>=2.31.0
+rich>=13.0.0
+toml>=0.10.2

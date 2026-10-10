@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+config.toml
+accounts.txt
+data/
+*.log
+.env
+.env.*
+!.env.example
+proxies.txt
+*.sqlite
+*.db
+*.zip
+*.bak
